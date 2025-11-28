@@ -1,4 +1,5 @@
 Facial Expression Detection with Arduino LCD Display
+
 A real-time facial expression detection system that uses computer vision to detect emotions and displays them on an LCD screen via Arduino.
 🎯 Overview
 This project combines Python-based facial landmark detection with Arduino hardware to create an interactive emotion recognition system. The system analyzes facial expressions through webcam input and displays corresponding emotions ("Happy" or "Sad") on a 16x2 I2C LCD display.
